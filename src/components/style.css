@@ -1,0 +1,194 @@
+table {
+position: relative;
+width: 900px;
+height: 50px;
+left:700px;
+top: 100px;
+
+
+
+}
+tr,td{
+    position: relative;
+    color: black;
+    font-size: 30px;
+    height: 50px;
+    text-align: center;
+    border: 3px solid white;
+    border-collapse: collapse;
+    width: 800px;
+   right: 200px;
+  
+
+
+
+}
+#table1{
+    position: relative;
+left: 265px;
+
+
+
+    
+    
+   
+    
+}
+.th{
+    background-color: burlywood;
+}
+
+h4{
+    position: relative;
+    top: 40px;
+}
+
+#table{
+position: relative;
+left: 300px;
+width: 800px;
+}
+#inpt{
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    position: relative;
+    top: 40px;
+}
+#inptExp{
+    width: 700px;
+    height: 300px;
+    margin: 10px; 
+    position: relative;
+    top: 30px;
+    text-align: right;
+}
+
+#label{
+    font-size: 30px;
+    position: relative;
+    right:5px;
+    top: 40px;
+    text-decoration: underline;
+}
+#label1{
+    font-size: 30px;
+    position: relative;
+    text-decoration: underline;
+}
+
+
+select{
+    position: relative;
+    top: 100px;
+}
+#text{
+    width: 300px;
+    height: 70px;
+    position: relative;
+    right: 650px;
+    margin: 5px;
+    top: 30px;
+   
+}
+#button1{
+    position: relative;
+    right: 850px;
+    top: -40px;
+    border-radius: 360px;
+    background-color: green;
+}
+
+.btn-dark{
+    margin: 10px;
+}
+
+#select1{
+    position: relative;
+  top: 50px;
+    left: 350px;
+}
+#date{
+    position: relative;
+    top: 20px;
+    left: 150px;
+    width: 150px;
+    height: 30px;
+}
+#select2{
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+
+#buttonPge{
+    position: relative;
+    top: 20px;
+    right: 300px;
+}
+
+#labal2{
+    position: relative;
+    top: 20px;
+    left: 420px;
+    font-size: 20px;
+}
+
+#labal1{
+    position: relative;
+   top:-10px;
+    left: 200px;
+    font-size: 20px;
+}
+
+.inpt{
+    width: 150px;
+    height: 30px;
+    position: relative;
+    right: 110px;
+    margin: 5px;
+}
+.inpt1{
+
+    width: 500px;
+    height: 200px;
+}
+
+#label2{
+    position: relative;
+    right: 120px;
+    
+}
+
+#label3{
+    position: relative;
+    top: -180px;
+    margin: 10px;
+}
+
+#button{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: black;
+    color: wheat;
+    position: relative;
+    left: 70px;
+}
+
+body{
+    background-image: url('b.jpg');
+    background-repeat: no-repeat;
+   background-size:cover
+  
+}
+
+#buttonPge{
+    width: 100px;
+    height: 30px;
+    position: relative;
+    right: 350px;
+    background-color: black;
+    color: wheat;
+}
+
